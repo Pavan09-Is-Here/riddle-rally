@@ -2,7 +2,7 @@
 
 A live, text-based clue hunt for 2–8 players. Explore five locations, solve the place riddle, reveal your private item clue, and race to find the hidden object.
 
-**Play:** https://riddle-rally.higgsfield.app
+**Play:** The standalone public link will appear here after the Cloudflare Worker is connected.
 
 ## Game features
 
@@ -15,4 +15,8 @@ A live, text-based clue hunt for 2–8 players. Explore five locations, solve th
 
 ## Build and test
 
-From `app/`, install the dependencies with Bun, then run `bun run build` or `bun run test`. The game server uses the Cloudflare Workers runtime.
+From `app/`, run `bun install`, then `bun run build` or `bun run test`.
+
+## Cloudflare hosting
+
+Connect this GitHub repository to a Cloudflare Worker with `app/` as the root directory, `bun run build` as the build command, and `npx wrangler deploy` as the deploy command. The Worker uses Cloudflare Durable Objects for multiplayer rooms and serves a public `workers.dev` URL.

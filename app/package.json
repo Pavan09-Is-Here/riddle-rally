@@ -1,7 +1,8 @@
 {
-  "name": "higgsfield-game",
+  "name": "riddle-rally",
   "private": true,
   "type": "module",
+  "packageManager": "bun@1.4.2",
   "scripts": {
     "build": "bun run check:logic && tsc --noEmit && bun run scripts/build.mjs",
     "dev": "wrangler dev",
