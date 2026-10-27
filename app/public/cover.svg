@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Riddle Rally</title>
+  <desc id="desc">A brass magnifying glass reveals a hidden key on an explorer's clue notebook, surrounded by props from five storybook locations.</desc>
+  <defs>
+    <linearGradient id="paper" x2="0.9" y2="1">
+      <stop stop-color="#fff8e8"/>
+      <stop offset="1" stop-color="#dec99f"/>
+    </linearGradient>
+    <linearGradient id="pine" x2="1" y2="1">
+      <stop stop-color="#28594a"/>
+      <stop offset="1" stop-color="#122d2b"/>
+    </linearGradient>
+    <pattern id="grain" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="6" r="1" fill="#765b35" opacity=".13"/>
+      <circle cx="18" cy="17" r=".8" fill="#765b35" opacity=".11"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="800" fill="url(#paper)"/>
+  <rect width="1200" height="800" fill="url(#grain)"/>
+  <path d="M0 0h1200v800H0z" fill="none" stroke="#173d36" stroke-width="26"/>
+  <path d="M55 64h410v672H55z" rx="24" fill="#173d36"/>
+  <path d="M76 84h368v632H76z" fill="none" stroke="#a77933" stroke-width="2" opacity=".8"/>
+  <text x="104" y="161" fill="#df9171" font-family="Georgia,serif" font-size="22" font-weight="bold" letter-spacing="5">A STORYBOOK HUNT</text>
+  <text x="99" y="300" fill="#fff8e8" font-family="Georgia,serif" font-size="91" font-weight="bold" letter-spacing="-4">Riddle</text>
+  <text x="99" y="397" fill="#fff8e8" font-family="Georgia,serif" font-size="105" font-weight="bold" letter-spacing="-5">Rally</text>
+  <path d="M104 439h196" stroke="#cb604d" stroke-width="9" stroke-linecap="round"/>
+  <text x="104" y="493" fill="#e8deca" font-family="Arial,sans-serif" font-size="26">Read the place.</text>
+  <text x="104" y="534" fill="#e8deca" font-family="Arial,sans-serif" font-size="26">Find the hidden thing.</text>
+  <g transform="translate(478 116)">
+    <path d="M114 435 175 129q8-37 44-30l388 75q35 7 27 42l-57 294q-7 34-43 26l-376-76q-45-8-44-25Z" fill="#f6ebd4" stroke="#a77933" stroke-width="9"/>
+    <path d="m209 145 174 34m-184 12 159 31m-170-7 110 23" fill="none" stroke="#b8a783" stroke-width="7" stroke-linecap="round"/>
+    <path d="M438 163q89 48 159 67v267q-72-39-155-61-79 29-144 63V232q67-52 140-69Z" fill="#35436a" stroke="#27343a" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M441 181v260m-108-162 78-42m-79 91 73-39" fill="none" stroke="#f3ead8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M543 159q-4-67 48-81 45-12 57 24l-44 36 43 7q-4 48-49 57-39 7-55-43Z" fill="#cb604d" stroke="#8f453a" stroke-width="7"/>
+    <path d="M604 184q-25 48-7 80" fill="none" stroke="#5b8057" stroke-width="9" stroke-linecap="round"/>
+    <path d="M202 441q-6-41 27-50 29-8 36 16l-28 22 28 5q-3 32-32 37-25 4-31-30Z" fill="#cb604d" stroke="#8f453a" stroke-width="5"/>
+    <path d="m578 100 18-47 18 47m-28-12h21" fill="#a77933" stroke="#755425" stroke-width="5" stroke-linejoin="round"/>
+    <circle cx="532" cy="321" r="145" fill="#df9c69" fill-opacity=".38" stroke="#a77933" stroke-width="24"/>
+    <circle cx="532" cy="321" r="123" fill="#fff3d6" fill-opacity=".3" stroke="#fae3b7" stroke-width="6"/>
+    <path d="M532 287v68m-34-34h68" stroke="#cb604d" stroke-width="12" stroke-linecap="round"/>
+    <path d="m640 426 92 90q18 18-2 38t-38 1l-91-91" fill="#173d36" stroke="#a77933" stroke-width="18" stroke-linejoin="round"/>
+    <path d="M692 557q26-50 62-23 21 16 6 37l-25 29q-17 19-37 0l-15-15q-13-12-4-28Z" fill="#d3a447" stroke="#755425" stroke-width="8"/>
+    <circle cx="690" cy="562" r="10" fill="#755425"/>
+    <path d="M736 569h38m-29 22h20m-13 21h14" stroke="#755425" stroke-width="7" stroke-linecap="round"/>
+    <path d="M54 490 72 400l22 90m-32-25h43" fill="#a77933" stroke="#755425" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M734 144q29-43 65 0l-31 29-31-29Z" fill="#d6c195" stroke="#75654a" stroke-width="5"/>
+    <path d="M761 172v48m-22-24h44m-37-17 30 36m0-36-30 36" stroke="#35436a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M73 560h155l-17 25H87Z" fill="#35436a" stroke="#27343a" stroke-width="5"/>
+    <path d="M87 532h155l-17 25H101Z" fill="#cb604d" stroke="#8f453a" stroke-width="5"/>
+    <path d="M101 504h155l-17 25H115Z" fill="#a77933" stroke="#755425" stroke-width="5"/>
+    <path d="m772 452q44-15 53 28-17 33-46 53-26-19-18-50 3-20 11-31Z" fill="#5b8057" stroke="#173d36" stroke-width="5"/>
+    <path d="m779 493 38-28" stroke="#d6ddba" stroke-width="4"/>
+  </g>
+  <circle cx="1121" cy="83" r="17" fill="#cb604d"/>
+  <circle cx="1121" cy="717" r="17" fill="#a77933"/>
+</svg>
