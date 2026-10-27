@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
 
   // Cloudflare Worker hosting for the public Riddle Rally game.
-  "name": "riddle-rally",
+  "name": "play",
   "workers_dev": true,
 
   // Bundled by `bun run build` (see scripts/build.mjs). The deploy rediscovers

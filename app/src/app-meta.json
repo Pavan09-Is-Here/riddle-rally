@@ -1,7 +1,7 @@
 {
   "og_title": "Riddle Rally",
   "og_description": "A live room-code party game of location riddles and hidden objects for two to eight friends.",
-  "favicon_url": "https://riddle-rally.higgsfield.app/favicon.svg",
-  "og_image_url": "https://riddle-rally.higgsfield.app/cover.svg",
-  "marketplace_cover_url": "https://riddle-rally.higgsfield.app/cover.svg"
+  "favicon_url": "https://play.riddle-rally.workers.dev/favicon.svg",
+  "og_image_url": "https://play.riddle-rally.workers.dev/cover.svg",
+  "marketplace_cover_url": "https://play.riddle-rally.workers.dev/cover.svg"
 }
